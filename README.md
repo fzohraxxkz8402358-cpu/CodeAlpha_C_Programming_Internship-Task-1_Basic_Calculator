@@ -1,4 +1,4 @@
-# CodeAlpha_C_Programming_Internship-Task-1_Basic_Calculator
+# CodeAlpha_C_Programming_Internship-1_Task-1_Basic_Calculator
 # 🧮 C Basic Calculator
 
 A simple command-line calculator developed in **C** that performs basic arithmetic operations. This project demonstrates the use of functions, conditional statements, user input, and basic programming concepts in C.
